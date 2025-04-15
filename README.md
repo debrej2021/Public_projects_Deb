@@ -14,3 +14,5 @@ https://github.com/debrej2021/Promtheus_Grafana_TMAssign/tree/main
 https://github.com/debrej2021/Azure_Assn_Deb_new
 https://github.com/debrej2021/.NET-APIs
 https://github.com/debrej2021/DarkWTheme
+https://github.com/debrej2021/Bowling_speed
+https://github.com/debrej2021/Python_micro
